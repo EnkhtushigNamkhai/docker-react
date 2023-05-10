@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p> 
+          Changing on the feature branch.
           Hi there. I can make a hot change now!! 
           Hot reloading: Whenever you make a change in the file, the server detects it and automatically refreshes the view in the browser.
           <br></br>
